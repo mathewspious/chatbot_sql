@@ -1,0 +1,4 @@
+TableName,Description
+baggage_details,"This table stores the high-level details of each piece of baggage.  This table provides a comprehensive overview of each piece of baggage, useful for tracking and auditing purposes."
+baggage_scanning,"This table records the scanning details of each bag at various points in the journey. This table is crucial for monitoring the real-time status and movement of baggage, enabling proactive issue resolution and customer service."
+passenger_details,"This table stores information about the passengers traveling with the bags. This table allows airlines to associate passengers with their baggage, which is essential for handling rush bags where passengers and their bags might travel on different flights. It also facilitates personalized service and handling of lost baggage claims."
