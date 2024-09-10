@@ -1,0 +1,121 @@
+{
+    "SessionId": "Hello1",
+    "History": [
+     {
+      "data": {
+       "additional_kwargs": {},
+       "content": "Which flight has the passenger John Smith travelled?",
+       "example": false,
+       "id": null,
+       "name": null,
+       "response_metadata": {},
+       "type": "human"
+      },
+      "type": "human"
+     },
+     {
+      "data": {
+       "additional_kwargs": {},
+       "content": "John Smith has traveled on flight BC101.",
+       "example": false,
+       "id": null,
+       "invalid_tool_calls": [
+       ],
+       "name": null,
+       "response_metadata": {},
+       "tool_calls": [
+       ],
+       "type": "ai",
+       "usage_metadata": null
+      },
+      "type": "ai"
+     },
+     {
+      "data": {
+       "additional_kwargs": {},
+       "content": "from where the fligt originated",
+       "example": false,
+       "id": null,
+       "name": null,
+       "response_metadata": {},
+       "type": "human"
+      },
+      "type": "human"
+     },
+     {
+      "data": {
+       "additional_kwargs": {},
+       "content": "The flight originated from JFK.",
+       "example": false,
+       "id": null,
+       "invalid_tool_calls": [
+       ],
+       "name": null,
+       "response_metadata": {},
+       "tool_calls": [
+       ],
+       "type": "ai",
+       "usage_metadata": null
+      },
+      "type": "ai"
+     },
+     {
+      "data": {
+       "additional_kwargs": {},
+       "content": "What is the flight destination",
+       "example": false,
+       "id": null,
+       "name": null,
+       "response_metadata": {},
+       "type": "human"
+      },
+      "type": "human"
+     },
+     {
+      "data": {
+       "additional_kwargs": {},
+       "content": "The flight destination is San Francisco (SFO).",
+       "example": false,
+       "id": null,
+       "invalid_tool_calls": [
+       ],
+       "name": null,
+       "response_metadata": {},
+       "tool_calls": [
+       ],
+       "type": "ai",
+       "usage_metadata": null
+      },
+      "type": "ai"
+     },
+     {
+      "data": {
+       "additional_kwargs": {},
+       "content": "List his bag tag numbers",
+       "example": false,
+       "id": null,
+       "name": null,
+       "response_metadata": {},
+       "type": "human"
+      },
+      "type": "human"
+     },
+     {
+      "data": {
+       "additional_kwargs": {},
+       "content": "Your bag tag number is 001234567890, John Smith.",
+       "example": false,
+       "id": null,
+       "invalid_tool_calls": [
+       ],
+       "name": null,
+       "response_metadata": {},
+       "tool_calls": [
+       ],
+       "type": "ai",
+       "usage_metadata": null
+      },
+      "type": "ai"
+     }
+    ]
+   }
